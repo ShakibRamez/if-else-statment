@@ -13,3 +13,12 @@
 // let password = "asdfg12345";
 // let message =(password === "asdfg12345") ? 'success' : 'failed';
 // console.log(message);
+   
+
+// task
+
+let message = 1 > 10 ? "true" :  "false";
+console.log(message);
+let time = '12:00';
+let greating = time < '12:00' ? 'good morning' : 'good evening';
+console.log(greating);
