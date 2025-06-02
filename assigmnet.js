@@ -26,6 +26,16 @@
 // x %= 3; 
 
 
-// Exponentiation and Assign
-// let x = 3;
-// x **= 2;
+// task
+// 1.first task
+
+let x = 30; // x = 30
+x += 10; // x = 40
+x /= 2; //x = 20
+console.log(x);
+
+
+// 2.second task
+let xp = 250;
+xp *= 2;
+console.log(xp);
