@@ -35,3 +35,25 @@
 //  }else{
 //     console.log("you rolled a number that is not 4,5, or 6");
 //  }
+
+
+// task
+
+let user = "employe";
+if(user === "guest"){
+    console.log("login denied");
+}else if(user === "employe"){
+    console.log("successfully logged  in");
+}
+
+
+let  myName = "amit";
+let nameLenght = myName.length;
+
+if(nameLenght > 5){
+    alert("more then 5 letters")
+}else if(nameLenght === 5){
+    alert("5 letters")
+}else{
+    alert("less then 5 letters")
+}
